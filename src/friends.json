@@ -2,73 +2,85 @@
   {
     "id": 1,
     "name": "Molly",
-    "image": "https://media.istockphoto.com/photos/cute-sitting-havanese-puppy-dog-picture-id611308904?k=6&m=611308904&s=612x612&w=0&h=dweIijc0sVa0pViOJEwJv5mOcaa2dcnFdGY38IsmSCk=",
+    "image":
+      "https://media.istockphoto.com/photos/cute-sitting-havanese-puppy-dog-picture-id611308904?k=6&m=611308904&s=612x612&w=0&h=dweIijc0sVa0pViOJEwJv5mOcaa2dcnFdGY38IsmSCk=",
     "click": false
   },
   {
     "id": 2,
     "name": "Max",
-    "image": "https://www.petmd.com/sites/default/files/petmd-shaking-puppy.jpg",
+    "image":
+      "https://www.petmd.com/sites/default/files/petmd-shaking-puppy.jpg",
     "click": false
   },
   {
     "id": 3,
     "name": "CottonBall",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-F_hRyOYgIs5p54zUr_hhQacQ-yugnqMbOmz5KR3OZuMkA8c",
+    "image":
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-F_hRyOYgIs5p54zUr_hhQacQ-yugnqMbOmz5KR3OZuMkA8c",
     "click": false
   },
   {
     "id": 4,
     "name": "Talulah",
-    "image": "https://static.inspiremore.com/wp-content/uploads/2016/10/19120953/VS1.jpg",
+    "image":
+      "https://static.inspiremore.com/wp-content/uploads/2016/10/19120953/VS1.jpg",
     "click": false
   },
   {
     "id": 5,
     "name": "Chloe",
-    "image": "https://www.iclasificados.com.mx/src/images/ad/20180319/iclasificados-regalo-hermosos-cachorros-de-raza-schnauzer-miniatura-ei.jpg",
+    "image":
+      "https://www.iclasificados.com.mx/src/images/ad/20180319/iclasificados-regalo-hermosos-cachorros-de-raza-schnauzer-miniatura-ei.jpg",
     "click": false
   },
   {
     "id": 6,
     "name": "Bear",
-    "image": "http://cdn0.wideopenpets.com/wp-content/uploads/2017/02/Untitled-design-1-7-770x405.png",
+    "image":
+      "http://cdn0.wideopenpets.com/wp-content/uploads/2017/02/Untitled-design-1-7-770x405.png",
     "click": false
   },
   {
     "id": 7,
     "name": "Miles",
-    "image": "http://www.zarias.com/wp-content/uploads/2015/12/61-cute-puppies.jpg",
+    "image":
+      "http://www.zarias.com/wp-content/uploads/2015/12/61-cute-puppies.jpg",
     "click": false
   },
   {
     "id": 8,
     "name": "Blondie",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golde33443.jpg/280px-Golde33443.jpg",
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golde33443.jpg/280px-Golde33443.jpg",
     "click": false
   },
   {
     "id": 9,
     "name": "Cuddles",
-    "image": "https://www.cheatsheet.com/wp-content/uploads/2017/10/chow-chow-puppy.jpg",
+    "image":
+      "https://www.cheatsheet.com/wp-content/uploads/2017/10/chow-chow-puppy.jpg",
     "click": false
   },
   {
     "id": 10,
     "name": "Iggi",
-    "image": "https://puppydogweb.com/wp-content/uploads/2015/05/husky-puppy-18220-1920x1200-777x387.jpg",
+    "image":
+      "https://puppydogweb.com/wp-content/uploads/2015/05/husky-puppy-18220-1920x1200-777x387.jpg",
     "click": false
   },
   {
     "id": 11,
     "name": "Brownie",
-    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/18/10/enhanced/webdr09/enhanced-buzz-32241-1424274656-13.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+    "image":
+      "https://img.buzzfeed.com/buzzfeed-static/static/2015-02/18/10/enhanced/webdr09/enhanced-buzz-32241-1424274656-13.jpg?downsize=715:*&output-format=auto&output-quality=auto",
     "click": false
   },
   {
     "id": 12,
     "name": "Gizmo",
-    "image": "https://iheartdogs.com/wp-content/uploads/2015/01/13064591083_da1eb11478_o.jpg",
+    "image":
+      "https://iheartdogs.com/wp-content/uploads/2015/01/13064591083_da1eb11478_o.jpg",
     "click": false
   }
 ]

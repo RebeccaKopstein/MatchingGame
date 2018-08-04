@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import FriendCard from "./components/FriendCard";
 import Wrapper from "./components/Wrapper";
-import Title from "./components/Title";
+// import Title from "./components/Title";
 import friends from "./friends.json";
 import "./App.css";
 
@@ -56,10 +56,11 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Puppies List</Title>
         <div className="jumbotron">
-  <h1 className="display-4">{this.state.score}</h1>
-  
+  <h1> Puppy Memory Game </h1>
+  <h6> Click a puppy to start earning a score... but remember what you clicked so you don't click any puppy twice!</h6>
+<hr/>
+  <p className="display-4">Score: {this.state.score}</p>
 </div>
         {this.state.friends.map(friend => (
           <FriendCard
