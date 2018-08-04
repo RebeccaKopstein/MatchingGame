@@ -1,0 +1,11 @@
+.wrapper {
+  padding-top: 50px;
+  background: radial-gradient(rgb(100, 18, 15), rgb(233, 128, 8));;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
